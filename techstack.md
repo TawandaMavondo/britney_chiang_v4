@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TawandaMavondo/britney_chiang_v4](https://github.com/TawandaMavondo/britney_chiang_v4)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|33<br/>Tools used|12/09/23 <br/>Report generated|
+|35<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -204,9 +204,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (17)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (19)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (17)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (19)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -222,6 +222,8 @@ Full tech stack [here](/techstack.md)
 |[gatsby-source-filesystem](https://www.npmjs.com/gatsby-source-filesystem)|v3.4.0|05/05/21|bchiang7 |MIT|N/A|
 |[gatsby-transformer-remark](https://www.npmjs.com/gatsby-transformer-remark)|v4.1.0|05/05/21|bchiang7 |MIT|[CVE-2023-22491](https://github.com/advisories/GHSA-7ch4-rr99-cqcw) (High)|
 |[gatsby-transformer-sharp](https://www.npmjs.com/gatsby-transformer-sharp)|v3.4.0|05/05/21|bchiang7 |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v6.0.0|04/06/21|Brittany Chiang |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.5.4|05/05/21|bchiang7 |MIT|N/A|
 |[prismjs](https://www.npmjs.com/prismjs)|v1.25.0|11/22/21|dependabot[bot] |MIT|[CVE-2022-23647](https://github.com/advisories/GHSA-3949-f494-cm99) (High)|
 |[prop-types](https://www.npmjs.com/prop-types)|v15.7.2|02/18/19|Brittany Chiang |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|05/05/21|bchiang7 |MIT|N/A|
