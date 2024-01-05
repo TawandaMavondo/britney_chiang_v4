@@ -1,11 +1,12 @@
 repo_name: TawandaMavondo/britney_chiang_v4
 report_id: 8235bea3e2b2d7bed44dbadf869eb05f
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-09T20:10:00+00:00'
+timestamp: '2024-01-05T08:27:18+00:00'
 requested_by: bchiang7
 provider: github
 branch: main
-detected_tools_count: 33
+detected_tools_count: 35
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -27,7 +29,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -42,7 +44,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/6749/styled-components.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:06:10.000000000 Z
@@ -56,7 +58,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: ".babelrc"
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 16:17:28.000000000 Z
@@ -69,6 +71,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/.eslintrc
   detection_source: ".eslintrc"
   last_updated_by: Brittany Chiang
   last_updated_on: 2018-08-16 02:34:22.000000000 Z
@@ -80,6 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4
   detection_source: Repo Metadata
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
@@ -91,7 +95,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 15:46:57.000000000 Z
@@ -103,6 +107,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Brittany Chiang
   last_updated_on: 2018-08-16 02:34:22.000000000 Z
@@ -114,6 +119,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/package.json
   detection_source: package.json
   last_updated_by: Brittany Chiang
   last_updated_on: 2018-08-16 02:34:22.000000000 Z
@@ -125,6 +131,7 @@ tools:
   category: Analytics
   sub_category: General Analytics
   image_url: https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/package.json
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -139,7 +146,7 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/5472/default_189db484e0770a6101c6a70f0ef0172bc0f8de37.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -152,7 +159,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2020-07-16 22:57:47.000000000 Z
@@ -166,7 +173,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-22 17:09:29.000000000 Z
@@ -179,12 +186,14 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4
   detection_source: Repo Metadata
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/package.json
   detection_source: package.json
   last_updated_by: Brittany Chiang
   last_updated_on: 2021-04-06 00:57:42.000000000 Z
@@ -193,6 +202,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/package.json
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 15:46:57.000000000 Z
@@ -206,7 +216,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:06:10.000000000 Z
@@ -220,7 +230,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -234,7 +244,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18473/default_4d6972312cb6be6601580f505cb85932d72a7e43.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Brittany Chiang
   last_updated_on: 2019-09-03 02:47:39.000000000 Z
@@ -249,7 +259,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16651/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -263,7 +273,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 16:17:28.000000000 Z
@@ -277,7 +287,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -291,7 +301,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -305,7 +315,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17532/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -319,7 +329,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17786/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -341,7 +351,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17100/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -356,7 +366,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18647/default_3eb5180fb08eb9c684c6269a642bfab3a16bcf1d.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -377,10 +387,38 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18094/image.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Brittany Chiang
+  last_updated_on: 2021-04-06 00:57:42.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 10.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: bchiang7
+  last_updated_on: 2021-05-05 15:46:57.000000000 Z
 - name: prismjs
   description: Lightweight, robust, elegant syntax highlighting
   package_url: https://www.npmjs.com/prismjs
@@ -391,7 +429,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16351/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-22 17:09:29.000000000 Z
@@ -412,7 +450,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Brittany Chiang
   last_updated_on: 2019-02-18 20:40:51.000000000 Z
@@ -426,7 +464,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -440,7 +478,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16513/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
@@ -454,7 +492,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16380/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
-  detection_source_url: github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
+  detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: bchiang7
   last_updated_on: 2021-05-05 17:58:46.000000000 Z
