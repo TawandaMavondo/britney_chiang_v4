@@ -2,7 +2,7 @@ repo_name: TawandaMavondo/britney_chiang_v4
 report_id: 8235bea3e2b2d7bed44dbadf869eb05f
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:27:18+00:00'
+timestamp: '2024-02-29T18:59:42+00:00'
 requested_by: bchiang7
 provider: github
 branch: main
@@ -86,7 +86,7 @@ tools:
   detection_source_url: https://github.com/TawandaMavondo/britney_chiang_v4
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.2.1
   license: MIT
